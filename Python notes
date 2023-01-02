@@ -16,3 +16,7 @@ File.readline will return strings in different lines
 
 with open("filename.txt") as f:
 Automatically closes the file
+
+List =[]
+dictionary={}
+tuples=()
