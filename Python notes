@@ -1,0 +1,18 @@
+Loop
+While loop for sth infinite
+For loop for sth know and definite in a lis
+[0:1] semicolon in list used for strings
+[0,1] comma used for numbers
+
+Raise
+raise exceptions for other ppl's mistake
+assert 
+assert your own mistake
+
+File.write() will return bytes
+File.read() will return strings
+
+File.readline will return strings in different lines
+
+with open("filename.txt") as f:
+Automatically closes the file
