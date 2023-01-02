@@ -1,0 +1,19 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[12]:
+
+
+"""
+Set up anaconda 
+use anaconda prompt to do pip install pandas
+"""
+import pandas as pd
+txtfile = pd.read_table("C:\\Users\\Cheng\\Desktop\\Python\\a.txt",sep=";")
+txtfile
+
+
+# In[11]:
+
+csvfile=pd.read_csv("C:\\Users\\Cheng\\Desktop\\Python\\k.csv") #use csv file instead of xlsx files
+csvfile
