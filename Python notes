@@ -19,4 +19,4 @@ Automatically closes the file
 
 List =[]
 dictionary={}
-tuples=()
+tuples=() #immutable 
