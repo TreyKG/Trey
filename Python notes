@@ -20,3 +20,7 @@ Automatically closes the file
 List =[]
 dictionary={}
 tuples=() #immutable 
+
+For sum in jupyter, use:
+import builtins
+print(builtins.sum(list(range(101))))
